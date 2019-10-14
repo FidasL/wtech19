@@ -5,7 +5,8 @@
 
 2. [HTML5 - účel, štruktúra a sémantika textu, obrázky a multimédiá, ďalší obsah](zdroje/02-WT-html.pdf) (1.10.)
 
-3. 
+3. [CSS - úvod, syntax, vloženie štýlov, selektory, miera konkrétnosti selektora, dedenie, box model, základné vlastnosti](zdroje/03-WT-css-uvod-selektory-box.pdf) (8.10.) 
+    * [Príklady z prednášky](zdroje/priklady-03-WT-css.zip)
 
 4. 
 
